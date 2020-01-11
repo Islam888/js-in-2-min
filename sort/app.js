@@ -1,7 +1,8 @@
 /********Array sort() method*********/
-// default order: ascending
-// sorts array in place (doesn't create a copy)
+// default order: ascending.
+// sorts array in place (doesn't create a copy).
 // sort in alphabetical order.
+// return the sorted array.
 
 //Examples:
 const arr = ["carrot", "apple", "banana"];
